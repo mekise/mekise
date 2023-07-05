@@ -3,12 +3,12 @@
 
 <hr>
 
-<p align="center">if you check regularly the arXiv, you might find this repo convenient</p>
+<p align="center">if you check regularly the arXiv, you might find this repo convenient -> <a href="https://github.com/mekise/speed-the-arxiv">speed-the-arxiv</a></p>
 <p align="center"><img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=mekise&repo=speed-the-arxiv&show_owner=true&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515"/></p>
 
 <hr>
 
-<h3 align="center">this is again me in other forms of the web</h3>
+<h3 align="center">this is again me</h3>
 <p align="center">
     <a style="color:#7b8a86; text-decoration:none" href="https://www.stefanoscali.xyz/">website</a> |
     <a style="color:#7b8a86; text-decoration:none" href="https://scholar.google.com/citations?user=j7dg-xwAAAAJ&hl=en">scholar</a> |
