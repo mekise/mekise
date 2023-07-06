@@ -1,5 +1,5 @@
 <h3 align="center">hello</h3>
-<p align="center">Stefano here. I am a postdoctoral research fellow in the group of Oleksandr Kyriienko (QuDOS) at the University of Exeter. I spend my daily caffeine intake blending graph theory, open systems, quantum topological data analysis, and quantum algorithms.</p>
+<p align="center">Stefano here. I am a postdoctoral research fellow in the group of Oleksandr Kyriienko (<a href="https://kyriienko.github.io/index.html">QuDOS</a>) at the University of Exeter. I spend my daily caffeine intake blending graph theory, open systems, quantum topological data analysis, and quantum algorithms.</p>
 
 <hr>
 
