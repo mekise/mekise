@@ -4,7 +4,7 @@
 <hr>
 
 <p align="center">if you check regularly the arXiv, you might find this repo convenient -> <a href="https://github.com/mekise/speed-the-arxiv">speed-the-arxiv</a></p>
-<p align="center"><img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=mekise&repo=speed-the-arxiv&show_owner=true&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515"/></p>
+<p align="center"><img height="50%" width="auto" src="https://github-readme-stats-mekise.vercel.app/api/pin/?username=mekise&repo=speed-the-arxiv&show_owner=true&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515"/></p>
 
 <hr>
 
@@ -19,8 +19,8 @@
 <hr>
 
 <p align="center">
-    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=mekise&show_icons=true&rank_icon=github&count_private=true&theme=transparent&hide_border=true&hide=contribs,issues,prs">
-    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mekise&layout=compact&hide_border=true&theme=transparent&langs_count=6&hide=jupyter%20notebook">
+    <img height="50%" width="auto" src ="https://github-readme-stats-mekise.vercel.app/api?username=mekise&show_icons=true&rank_icon=github&count_private=true&theme=transparent&hide_border=true&hide=contribs,issues,prs">
+    <img height="50%" width="auto" src ="https://github-readme-stats-mekise.vercel.app/api/top-langs/?username=mekise&layout=compact&hide_border=true&theme=transparent&langs_count=6&hide=jupyter%20notebook">
     <img height="50%" width="auto" src ="https://github-readme-streak-stats.herokuapp.com?user=mekise&theme=transparent&hide_border=true">
 </p>
 
