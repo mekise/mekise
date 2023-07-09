@@ -1,5 +1,7 @@
 <h3 align="center">hello</h3>
 <p align="center">Stefano here. I am a postdoctoral research fellow in the group of Oleksandr Kyriienko (<a href="https://kyriienko.github.io/index.html">QuDOS</a>) at the University of Exeter. I spend my daily caffeine intake grinding graph theory, open systems, and quantum algorithms.</p>
+<p align="center">Fedora user, I have mainly coded in Julia, Python, Mathematica, and C. Before physics, I have been a carpenter, CNC programmer, CAD/CAM dev, and web dev.</p>
+<p align="center">After I drink my coffee, I can also do other things, mainly climbing, motocross, and gaming. In the past, I have tried everything I could think of like skydiving, a 2000 Km bike trip across Europe, and piloting a wartime fighter aircraft. I am an adrenaline junkie in life and I strongly believe in hands-on experience.</p>
 <hr>
 <h3 align="center">other versions of me</h3>
 <p align="center">
@@ -10,7 +12,7 @@
 </p>
 <hr>
 <h3 align="center">a repo i use daily</h3>
-<p align="center">if you search the arXiv for a living, you might find this repo convenient -> <a href="https://github.com/mekise/speed-the-arxiv">speed-the-arxiv</a></p>
+<p align="center">If you search the arXiv for a living, you might find this repo convenient -> <a href="https://github.com/mekise/speed-the-arxiv">speed-the-arxiv</a></p>
 <p align="center"><img height="50%" width="auto" src="https://github-readme-stats-mekise.vercel.app/api/pin/?username=mekise&repo=speed-the-arxiv&show_owner=true&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515"/></p>
 <hr>
 <p align="center">
