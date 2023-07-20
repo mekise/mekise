@@ -1,4 +1,4 @@
-<p align="center">⚠️ If not all stats have loaded, refresh the page. It is a known issue of GitHub handling readme-stats</p>
+<p align="center">⚠️ If not all stats have loaded, refresh the page. It is a known issue of GitHub handling readme-stats.</p>
 <h3 align="center">hello.</h3>
 <p align="center">Stefano here. I am a postdoctoral research fellow in the group of Oleksandr Kyriienko (<a href="https://kyriienko.github.io/index.html">QuDOS</a>) at the University of Exeter. I spend my daily caffeine intake grinding graph theory, open systems, and quantum algorithms.</p>
 <p align="center">Fedora user, I have mainly coded in Julia, Python, Mathematica, and C. Before physics, I have been a carpenter, CNC programmer, CAD/CAM dev, and web dev.</p>
