@@ -1,8 +1,8 @@
 <p align="center">( ⚠️ If not all stats have loaded, refresh the page. It is a known issue of GitHub handling readme-stats. )</p>
 <h3 align="center">hello.</h3>
 <p align="center">Stefano here. I am a postdoctoral research fellow in the group of Oleksandr Kyriienko (<a href="https://kyriienko.github.io/index.html">QuDOS</a>) at the University of Exeter. I spend my daily caffeine intake grinding graph theory, open systems, and quantum algorithms.</p>
-<p align="center">Fedora user, I have mainly coded in Julia, Python, Mathematica, and C. Before physics, I have been a carpenter, CNC programmer, CAD/CAM dev, and web dev.</p>
-<p align="center">After I drink my coffee, I can also do other things, mainly climbing, motocross, and gaming. In the past, I have tried everything I could think of like skydiving, a 2000 Km bike trip across Europe, and piloting a wartime fighter aircraft. I am an adrenaline junkie in life and I strongly believe in hands-on experience.</p>
+<p align="center">Fedora user, I have mainly coded in Julia, Python, Mathematica, and C. Before physics, I was a carpenter, CNC programmer, CAD/CAM dev, and web dev.</p>
+<p align="center">After I drink my coffee, I can also do other things, mainly playing tennis, climbing, motocross, and gaming. I have tried everything I could think of like skydiving, a 2000 Km bike trip across Europe, and piloting a wartime fighter aircraft. I am an adrenaline junkie who strongly believes in hands-on experience.</p>
 <hr>
 <h3 align="center">other versions of me.</h3>
 <p align="center">
