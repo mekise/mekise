@@ -8,8 +8,7 @@
 <p align="center">
     <a style="color:#7b8a86; text-decoration:none" href="https://www.stefanoscali.xyz/">website</a> |
     <a style="color:#7b8a86; text-decoration:none" href="https://scholar.google.com/citations?user=j7dg-xwAAAAJ&hl=en">scholar</a> |
-    <a style="color:#7b8a86; text-decoration:none" href="https://www.linkedin.com/in/stefano-scali/">linkedin</a> |
-    <a style="color:#7b8a86; text-decoration:none" href="https://twitter.com/phystefano">twitter</a></div>
+    <a style="color:#7b8a86; text-decoration:none" href="https://www.linkedin.com/in/stefano-scali/">linkedin</a>
 </p>
 <hr>
 <h3 align="center">a repo i use daily.</h3>
